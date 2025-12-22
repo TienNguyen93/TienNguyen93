@@ -15,7 +15,7 @@ I'm a Data Science student who enjoys leveraging machine learning and artificial
 
 ## 📚 Projects
 
-Welcome to my portfolio! Here you'll find a collection of [projects]() that demonstrate my skills in machine learning, data analysis, and AI development. 
+Welcome to my portfolio! Here you'll find a collection of [projects](https://maze-pyramid-b22.notion.site/Hey-there-I-am-Tien-2a32e6586e54803fbc2ad8e46b6cdaba) that demonstrate my skills in machine learning, data analysis, and AI development. 
 
 ## 🛠️ Technical Skills
 
