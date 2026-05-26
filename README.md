@@ -13,9 +13,7 @@ I'm a Data Science student who enjoys leveraging machine learning and artificial
 - Perform comprehensive data analysis across multiple formats, majority in Excel and CSV data processing
 - Transform raw data into meaningful stories through statistical analysis and visual storytelling
 
-## 📚 Projects
-
-Welcome to my portfolio! Here you'll find a collection of [projects](https://maze-pyramid-b22.notion.site/Hey-there-I-am-Tien-2a32e6586e54803fbc2ad8e46b6cdaba) that demonstrate my skills in machine learning, data analysis, and AI development. 
+## 📚 Portfolio page: https://tiennguyen.vercel.app/
 
 ## 🛠️ Technical Skills
 
